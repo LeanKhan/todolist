@@ -1,6 +1,7 @@
 //TodoList v1.
 
 //TodoList Object
+var newBranch = "New Branch Made";//New
 
 var todoList = {
 	todos: [], //Array of todos, containing objects
